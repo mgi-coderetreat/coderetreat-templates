@@ -1,2 +1,5 @@
 # coderetreat-templates
-Combined templates for different languages
+
+Open a terminal and `cd` into a language/config of your desire.
+
+Read the README.md how to setup and run tests.

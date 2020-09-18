@@ -1,8 +1,6 @@
-# coderetreat-python
+# python-pytest
 
-## preconditions
-
-(should be installed automatically)
+## setup
 
 ```
 pip install pytest
