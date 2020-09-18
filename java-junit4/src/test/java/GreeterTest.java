@@ -1,19 +1,13 @@
-import static org.junit.Assert.*;
+import static org.assertj.core.api.Assertions.assertThat;
 
-import org.assertj.core.api.Assertions;
 import org.junit.Test;
 
-public class ThingTest {
+public class GreeterTest {
 
     @Test
-    public void it_should_greet() {
-        Greeter thing = new Greeter();
-        String greeting = thing.greet();
-        Assertions.assertThat(greeting).isEqualTo("Hello");
+    public void greeter_should_say_hello() {
+        Greeter greeter = new Greeter();
+        assertThat(greeter.greet()).isEqualTo("Hello");
     }
 
-    @Test
-    public void it_should_fail() {
-        fail();
-    }
 }
