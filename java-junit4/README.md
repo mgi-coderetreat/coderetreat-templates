@@ -5,3 +5,9 @@
 ```
 mvn test
 ```
+
+## running main
+
+```
+mvn exec:java
+```
