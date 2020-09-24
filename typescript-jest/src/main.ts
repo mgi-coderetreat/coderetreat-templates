@@ -1,7 +1,3 @@
-function hello(): String {
-    return "Hell0"
-}
+import {greet} from './greeter'
 
-export {
-    hello
-}
+console.log(greet() + ' world!')

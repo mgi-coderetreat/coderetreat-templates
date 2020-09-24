@@ -19,3 +19,8 @@ continous:
 ```
 yarn watch
 ```
+## running main
+
+```
+yarn start
+```
