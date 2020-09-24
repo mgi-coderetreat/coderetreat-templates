@@ -11,3 +11,9 @@ pip install pytest
 ```
 pytest
 ```
+
+## running main
+
+```
+python3 main.py
+```
