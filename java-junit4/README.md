@@ -8,6 +8,8 @@ mvn test
 
 ## running main
 
+(Includes compilation)
+
 ```
-mvn exec:java
+mvn compile exec:java
 ```
