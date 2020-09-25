@@ -8,5 +8,4 @@ vscode:
     - ms-vscode.csharp@1.21.12:kw8SkO8+aVTSFug281WfQQ==
 
 tasks:
-  - before: cd typescript-jest && yarn install
-  - before: cd dotnet && dotnet restore
+  - init: cd dotnet && dotnet restore && cd ../typescript-jest && yarn install
