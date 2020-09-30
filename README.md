@@ -2,8 +2,10 @@
 
 # coderetreat-templates
 
-(Assuming you are running in a GitPod)
+To collaborate in the browser, open the project in a GitPod (click on the badge), then:
 
-In a terminal and `cd` into a language/config of your desire.
+- In the terminal `cd` into the language of your desire.
+- Read the `README.md` there run tests and execute the program.
+- Have fun! 😀
 
-Read the README.md how to execute and run tests.
+(You can also checkout/download the repo and run it locally of course)
