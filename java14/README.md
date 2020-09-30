@@ -1,4 +1,6 @@
-# java-junit4
+# java14
+
+Java 14 with activated preview language features like records, etc.
 
 ## running tests
 
