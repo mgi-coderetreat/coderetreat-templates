@@ -10,6 +10,6 @@
   "scripts": {
     "start": "ts-node src/main.ts",
     "test": "jest",
-    "watch": "jest --watch"
+    "watch": "jest --watchAll"
   }
 }
