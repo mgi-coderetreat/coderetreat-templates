@@ -1,6 +1,9 @@
 public class Greeter {
 
-    public String greet() {
-        return "Hell0";
+    public static record Greeting(String text) {
+    }
+
+    public Greeting greet() {
+        return new Greeting("Hell0");
     }
 }
