@@ -1,4 +1,4 @@
-# java-junit4
+# java
 
 ## running tests
 
