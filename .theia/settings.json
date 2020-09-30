@@ -5,5 +5,11 @@
         "**/.settings": true,
         "**/.factorypath": true
     },
-    "java.configuration.updateBuildConfiguration": "automatic"
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-14",
+            "path": "/workspace/jdk-14.0.2+12"
+        }
+    ]
 }

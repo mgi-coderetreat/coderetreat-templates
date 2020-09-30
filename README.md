@@ -1,5 +1,9 @@
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/mgi-coderetreat/coderetreat-templates)
+
 # coderetreat-templates
 
-Open a terminal and `cd` into a language/config of your desire.
+(Assuming you are running in a GitPod)
 
-Read the README.md how to setup and run tests.
+In a terminal and `cd` into a language/config of your desire.
+
+Read the README.md how to execute and run tests.

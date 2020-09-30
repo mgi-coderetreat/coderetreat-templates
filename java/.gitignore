@@ -23,3 +23,5 @@ target
 .gradle/
 .project
 .factorypath
+.idea
+*.iml

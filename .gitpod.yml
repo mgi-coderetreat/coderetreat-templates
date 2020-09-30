@@ -1,4 +1,8 @@
+image:
+  file: .gitpod.Dockerfile
+
 vscode:
   extensions:
     - mathiasfrohlich.Kotlin@1.7.1:zRxka5i+6/G9r7KC3xmyXQ==
     - cool2k.vscode-lombok@1.0.2:e816/wZO588Jp8PN58Wj6g==
+    - ms-vscode.csharp@1.21.12:kw8SkO8+aVTSFug281WfQQ==
