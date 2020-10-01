@@ -10,6 +10,10 @@
         <kotlin.version>1.4.10</kotlin.version>
         <junit.version>4.12</junit.version>
         <main.class>MainKt</main.class>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>${maven.compiler.source}</maven.compiler.target>
+        <kotlin.compiler.jvmTarget>${maven.compiler.source}</kotlin.compiler.jvmTarget>
+        <kotlin.compiler.incremental>false</kotlin.compiler.incremental>
     </properties>
 
     <dependencies>
