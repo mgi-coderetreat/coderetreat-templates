@@ -1,4 +1,4 @@
-# kotlin-junit4
+# kotlin
 
 ## running tests
 

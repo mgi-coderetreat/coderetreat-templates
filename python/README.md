@@ -1,4 +1,4 @@
-# python-pytest
+# python
 
 ## running tests
 

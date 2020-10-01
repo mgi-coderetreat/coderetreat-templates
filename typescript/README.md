@@ -1,4 +1,4 @@
-# typescript-jest
+# typescript
 
 ## setup
 
